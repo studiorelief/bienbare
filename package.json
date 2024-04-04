@@ -1,13 +1,13 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@studiorelief/bienbare",
   "version": "0.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "description": "Bien Baré website",
+  "homepage": "https://bienbare.design.webflow.com/",
   "license": "ISC",
   "keywords": [],
   "author": {
     "name": "Finsweet",
-    "url": "https://finsweet.com/"
+    "url": "https://www.studiorelief.fr/"
   },
   "repository": {
     "type": "git",
