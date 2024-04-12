@@ -1,0 +1,19 @@
+@media screen and (min-width: 1260px) {
+.odysee_images-wrapper {
+    left: 5rem;
+  }
+}
+
+.swiper.is-parole {
+  overflow: visible !important;
+}
+
+.swiper-button-disabled {
+  border-color: transparent !important;
+}
+
+p br {
+  content: '';
+  display: block;
+  margin-top: 0.5rem;
+}
